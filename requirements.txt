@@ -1,2 +1,8 @@
 flask
 requests
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+archivenow
